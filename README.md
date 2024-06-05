@@ -1,6 +1,7 @@
 # Udasecurity
 
-## Split the project into multiple modules.
+
+- **Split the project into multiple modules.**
 ## Refactor the code to be unit-testable.
 ## Write unit tests to cover all main security requirements.
 ## Fix any bugs found in the process.
